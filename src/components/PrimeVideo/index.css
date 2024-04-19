@@ -1,0 +1,23 @@
+/* Write your CSS here */
+
+.page-bg {
+  display: flex;
+  flex-direction: column;
+}
+
+.videos-container {
+  flex-grow: 1;
+  padding: 25px;
+  background-color: white;
+}
+
+h1 {
+  color: white;
+  font-family: 'Roboto';
+}
+
+.thumbnails-container {
+  padding: 0px;
+  display: flex;
+  flex-wrap: wrap;
+}

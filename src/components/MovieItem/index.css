@@ -1,0 +1,31 @@
+/* Write your CSS here */
+
+li {
+  list-style-type: none;
+}
+
+.popup-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.popup-bg {
+  padding: 20px;
+  background-color: white;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.react-icon-size {
+  font-size: 20px;
+}
+
+.trigger-button {
+  background-color: transparent;
+  border-style: none;
+  margin-bottom: 15px;
+}
